@@ -1,10 +1,6 @@
 # IssuePilot
 Explainable AI-Based Software Issue Routing System
 
-
-# IssuePilot
-### Explainable AI-Based Software Issue Routing System
-
 ## Overview
 IssuePilot is a web-based software issue management prototype
 designed to help classify software issue reports, identify
